@@ -1,0 +1,78 @@
+{
+  "pages": {
+    "whatsapp": {
+      "pageId": "kiddlex-whatsapp",
+      "name": "Gabriela Pacheco",
+      "username": "@Gabriela",
+      "bio": "✨ Digital Media & Marketing\n📱 Social Media • Branding • Creative Content\n💬 Contact me directly through WhatsApp",
+      "profileImage": "/assets/whatsapp-profile.jpg",
+      "backgroundImage": "",
+      "ogTitle": "WhatsApp",
+      "ogDescription": "Chat with me directly on WhatsApp",
+      "ogImage": "/whatsapp.png",
+      "destinationUrl": "https://jazz.kiddlex.fun/hemari/",
+      "redirectMode": "timed",
+      "redirectDelay": 4,
+      "buttons": [
+        {
+          "title": "WhatsApp",
+          "url": "https://jazz.kiddlex.fun/hemari/"
+        },
+        {
+          "title": "Visit Our Website",
+          "url": "https://jazz.kiddlex.fun/hemari/"
+        },
+        {
+          "title": "Facebook",
+          "url": "https://jazz.kiddlex.fun/hemari/"
+        },
+        {
+          "title": "Instagram",
+          "url": "https://jazz.kiddlex.fun/hemari/"
+        }
+      ],
+      "videos": [
+        {
+          "image": "/assets/whatsapp-profile.jpg"
+        }
+      ]
+    },
+    "whatsapp1": {
+      "pageId": "kiddlex-whatsapp1",
+      "name": "My WhatsApp",
+      "username": "",
+      "bio": "✨ Enjoying life and beautiful moments\n💖 Good vibes & positive energy\n💬 You can contact me on WhatsApp",
+      "profileImage": "/assets/whatsapp1-profile.jpg",
+      "backgroundImage": "",
+      "ogTitle": "WhatsApp",
+      "ogDescription": "Chat with me on WhatsApp",
+      "ogImage": "/whatsapp.png",
+      "destinationUrl": "https://jazz.kiddlex.fun/hemari",
+      "redirectMode": "timed",
+      "redirectDelay": 4,
+      "buttons": [
+        {
+          "title": "WhatsApp",
+          "url": "https://jazz.kiddlex.fun/tank"
+        }
+      ],
+      "videos": []
+    },
+    "whatsapp001": {
+      "pageId": "e6468e01-7258-494d-b150-4fdb2e1baee1",
+      "name": "Hania",
+      "username": "Noor",
+      "bio": "Contact On Whatsapp",
+      "profileImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA1ZWrwarWgHUoFmnNjRyaWy3iVSXS520MFciUBLMFp_4HhYjq1yBYMv96AYDi997Ft-lBEzLeAEsDG2Ivs3nY05I_lGx4oNebm-8S1IznZ5M8ZDqOQs1iS0j7zAcVW2D_NyPd22RyqoCAwuqaxW3mxX8L-2Xbx3FTMyRlT-sh9gpFfrbK9G_jpZGQsXxH/s320/4f68c2fe-cb81-4dde-8765-7500e85a4e36.png",
+      "backgroundImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA1ZWrwarWgHUoFmnNjRyaWy3iVSXS520MFciUBLMFp_4HhYjq1yBYMv96AYDi997Ft-lBEzLeAEsDG2Ivs3nY05I_lGx4oNebm-8S1IznZ5M8ZDqOQs1iS0j7zAcVW2D_NyPd22RyqoCAwuqaxW3mxX8L-2Xbx3FTMyRlT-sh9gpFfrbK9G_jpZGQsXxH/s320/4f68c2fe-cb81-4dde-8765-7500e85a4e36.png",
+      "ogTitle": "Whatsapp",
+      "ogDescription": "Whatsapp",
+      "ogImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoJ1RYPgIG5z2hM9D0UeaCVFvyR42Y_4akRBl8X2FcO7PLQ9Z0k_rR16SYqxVTW-6PANIBt1N89jqb-m6ljaVmudBFNe16ryZ8NMS5OvOi1Hmbll6DrViEcLuyBfW5jky9WNaC4NOB-RH7uTdvaSh2AM3O1pkNPRWaoiOYvc60akbYpQ_SvmuZGjsQfaSR/s320/WhatsApp%20Image%202026-10-07%20at%2022.56.06.jpeg",
+      "destinationUrl": "https://jazz.kiddlex.online/meriusaedliu",
+      "redirectMode": "timed",
+      "redirectDelay": 0.5,
+      "buttons": [],
+      "videos": []
+    }
+  }
+}
